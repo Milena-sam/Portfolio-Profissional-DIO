@@ -1,7 +1,18 @@
 
 async function fetchProfileData() {
-    const url = 'https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/profile.json';
+  try {
+
+    const url = './data/profile.json'
     const response = await fetch(url)
+
+    if (!response.ok) {
+      throw new Error(`Erro ao carregar JSON: ${response.status}`)
+    }
+
     const profileData = await response.json()
     return profileData
+  } catch (error) {
+    console.error("Erro ao buscar os dados do perfil:", error)
+    return {}
+  }
 }
