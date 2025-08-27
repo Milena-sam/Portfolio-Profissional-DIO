@@ -1,35 +1,23 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Milena da Silva Sampaio",
+  "photo": "https://avatars.githubusercontent.com/u/216615695?v=4",
+  "job": "Analista de Telecomunicação JR. - STFC & MVNO",
+  "location": "São Paulo",
+  "phone": "(16) 98825-6976",
+  "email": "milenadasilvasampaio35@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/github.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       }
     ],
     "softSkills": [
@@ -41,38 +29,30 @@
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Português BR"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Meu Portfólio | Desafio DIO",
+      "url": "https://github.com/Milena-sam/Milena-sam.github.io",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Analista JR. STFC e MVNO",
+      "period": "2024 - até o momento",
+      "description": "Atuação com foco em sistemas da ABR Telecom, realizando a identificação e resolução de problemas relacionados à telefonia STFC e MVNO."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Analista JR. NOC",
+      "period": "2023 - 2024",
+      "description": "Responsável pelo monitoramento de rede utilizando ferramentas como Zabbix e Grafana. Atuação em tratativas de incidentes, identificação e resolução de problemas técnicos em tempo real, atendimento a clientes PJ."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Analista de SAC (estágio, N1, N2 e N3)",
+      "period": "2019 - 2023",
+      "description": "Atendimento ao cliente por ligação, WhatsApp, Reclame Aqui e ANATEL, atuando na resolução de problemas mais complexos, principalmente relacionados à internet. Responsável por tratativas de casos sensíveis e críticos, com foco na satisfação do cliente e cumprimento de prazos regulatórios. Realização de reversões e retenções, elaboração de planilhas de acompanhamento."
     }
   ]
 }
